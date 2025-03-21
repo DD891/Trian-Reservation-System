@@ -220,8 +220,7 @@ System.out.println("Sleeper class"+max3);
 }
 private void doExit()
 {
-System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
-System.out.println("Project done by: Divyansh Dua");
+
 System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
 }
 }
